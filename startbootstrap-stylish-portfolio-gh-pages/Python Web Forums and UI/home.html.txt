@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home Page</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="main-wrapper">
+<center><h2>Home Page</h2></center>
+
+<center><h3>Welcome
+</h3></center>
+<form action="homepage.php" method="post">
+<div class="imgcontainer"> <center>
+<img src="avatar.jpg" style="width:200px"> </center> //HERE you can pick any image and download and save
+
+<h2><center>JOURNAL ENTRY</h2> </center>
+<h2><center><table><tr><td>WELCOME<td>
+</tr>
+<tr><br /><td>PLEASE SIGN UP <td>
+</tr>   
+<tr><br /><td> AND ENTER YOUR DETAILS<td>
+
+</tr></table></center>
+</h2>
+
+</div>
+
+<h2><center>
+              
+<a href="login.html">signup</a></center></h2>
+
+</form>
+</div>
+</body>
+</html>
